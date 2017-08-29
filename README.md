@@ -1,8 +1,8 @@
 # Bamazon
 
 youtube links
-	CUSTOMER NODE APP
+	DB SCHEMA
 	https://youtu.be/4tIQCDqsdWM
 
-	DB SCHEMA
+	CUSTOMER NODE APP
 	https://youtu.be/PBLbYCxI4oU
